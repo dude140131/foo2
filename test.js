@@ -1,1 +1,3 @@
+---
+---
 alert("{{site.foobar}}");
